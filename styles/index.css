@@ -38,3 +38,10 @@
 h6 {
     text-align: center;
 }
+
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 20px;
+}
