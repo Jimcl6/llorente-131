@@ -1,0 +1,36 @@
+.full-name {
+    max-width: max-content;
+}
+
+.profile-description {
+    max-width: 60%;
+    font-family: 'Cormorant Garamond', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#carouselExampleControls {
+    max-width: 70%;
+}
+
+.link-project {
+    font-size: 20px;
+}
+
+#html-column {
+    max-height: max-content;
+}
+
+
+/* .input-form {
+    margin: 50px;
+} */
+
+.full-name {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+}
+
+.job-position {
+    font-family: 'Montserrat', sans-serif;
+}
